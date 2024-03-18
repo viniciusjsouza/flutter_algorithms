@@ -1,7 +1,7 @@
 # 📑 Flutter Algorithms
 ## Sobre o projeto
 
-Repositório de estudos de algoritmos em dart/Flutter 🚀🚀🚀🚀🚀🚀. 
+Repositório de estudos de algoritmos em dart/Flutter como avaliação do bootcamp em Mobile Development do Desenvolve Boticário juntamente com a Escola Korú 🚀🚀🚀🚀🚀🚀. 
 
 ## Screenshots
 <p>
